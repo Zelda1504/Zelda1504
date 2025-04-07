@@ -1,1 +1,6 @@
-mais.py
+
+meu-projeto/
+│
+├── index.js         # Arquivo principal do projeto
+├── README.md        # Documentação do projeto
+└── assets/          # Pasta para arquivos adicionais, se necessário
